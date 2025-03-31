@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "name": "datastructures",
+  "version": "1.0.0",
+  "description": "Data Structures HW in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJA125/DataStructures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJA125/DataStructures/issues"
+  },
+  "homepage": "https://github.com/AJA125/DataStructures#readme"
+}
